@@ -74,7 +74,7 @@ namespace ajedrez
             this.layout.Dock = System.Windows.Forms.DockStyle.Fill;
             this.layout.Location = new System.Drawing.Point(0, 0);
             this.layout.Name = "layout";
-            this.layout.Size = new System.Drawing.Size(853, 861);
+            this.layout.Size = new System.Drawing.Size(1080, 861);
             this.layout.TabIndex = 0;
             // 
             // Form1
