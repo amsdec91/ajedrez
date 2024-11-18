@@ -391,7 +391,7 @@ namespace ajedrez
             if (dx == dy)
             {
                 return EsRutaLibreDiagonal(origen, destino);
-            }
+            }//holi
 
             return false;
         }
